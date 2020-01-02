@@ -1,0 +1,11 @@
+C:\dev\react\test\WebApplication1\Module\obj\Debug\Module.csprojAssemblyReference.cache
+C:\dev\react\test\WebApplication1\Module\bin\Debug\Module.dll.config
+C:\dev\react\test\WebApplication1\Module\bin\Debug\Module.dll
+C:\dev\react\test\WebApplication1\Module\bin\Debug\Module.pdb
+C:\dev\react\test\WebApplication1\Module\bin\Debug\EntityFramework.dll
+C:\dev\react\test\WebApplication1\Module\bin\Debug\EntityFramework.SqlServer.dll
+C:\dev\react\test\WebApplication1\Module\bin\Debug\EntityFramework.xml
+C:\dev\react\test\WebApplication1\Module\bin\Debug\EntityFramework.SqlServer.xml
+C:\dev\react\test\WebApplication1\Module\obj\Debug\Module.csproj.CopyComplete
+C:\dev\react\test\WebApplication1\Module\obj\Debug\Module.dll
+C:\dev\react\test\WebApplication1\Module\obj\Debug\Module.pdb
